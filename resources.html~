@@ -101,8 +101,8 @@
 			<p>
 			<ul>
 				<li class="text-justify"><a href="#syllabus_and_references">Syllabus and References</a></li>
-				<li class="text-justify"><a href="#assignments">Assignments</a></li>
 				<li class="text-justify"><a href="#text_and_reference_books">Text and Reference Book(s)</a></li>
+				<li class="text-justify"><a href="#assignments">Assignments</a></li>
 				<!-- <li class="text-justify"><a href="#nlp_tools">NLP Tools</a></li> -->
 				<!-- <li class="text-justify"><a href="#related_blogs">Related Blogs</a></li> -->
 				<!-- <li class="text-justify"><a href="#tut_nlp_python">Tutorials: NLP + Python</a></li> -->
@@ -398,7 +398,7 @@
 			<h4 id="assignments"><u>Assignments</u></h4>
 			<p>
 				<Ol>
-					<li class="text-justify"><b>Assignment 1:</b> <a href="https://opensource.com/business/15/7/five-open-source-nlp-tools" target="_blank"><u>Link</u></a></li>
+					<li class="text-justify"><b>Assignment 1:</b> <a href="docs/assignment1_2016cs519.pdf"target="_blank"><u>Link</u></a></li>
 					
 				</Ol>
 			</p>
