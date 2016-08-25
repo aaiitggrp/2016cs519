@@ -194,31 +194,30 @@
 [ Text Reference: Chapter 'N-Grams' 6 - 6.2, SLP ]--></td>
                 
             </tr>
-			
-			<!--<tr>
+
+			<tr class="success">
+                <td>Quiz 1</td>
+                <td>Aug 22</td>
+                <td>Syllabus: lecture 1-2</td>
+				<td>NA</td>
+            </tr>
+
+			<tr>
                 <td>Lecture 7</td>
-                <td>Feb 3</td>
-                <td>Estimating Parameters of N-gram models</td>
-				<td> [ <a href="docs/CS565Lec20160203.pdf" target="_blank">Lecture Slides</a> ]<br/>
+                <td>Aug 23</td>
+                <td>Probability bounds: Markov and Chebyshev's inequalitites, Chernoff bound</td>
+				<td>[HOS] <!-- [ <a href="docs/CS565Lec20160203.pdf" target="_blank">Lecture Slides</a> ]<br/>
 				[ Video lecture: <a href="https://class.coursera.org/nlangp-001/lecture" target="_blank">Coursera</a> Week 1 - Parameter Estimation in Language Models ]<br/>
 [ <a href="http://www.cs.columbia.edu/~mcollins/lm-spring2013.pdf" target="_blank">Prof. Collins Lecture Note</a> ]</td>
-                <td> </td>
-            </tr>-->
-			
-			<!--<tr class="success">
-                <td>Reading Assignment</td>
-                <td>Feb<br/>4-5</td>
-                <td>N-Grams,<br/>Hidden Markov Models</td>
-				<td>[ Chapters 'N-Grams' and 'Hidden Markov Models', SLP ] <br/><i class="fa fa-star" style="color:red"></i> <b><i>Updated on Feb 9</i></b></td>
-                <td> </td>
-            </tr>-->
+                <td>--> </td>
+            </tr>
 
-			<!--<tr>
+			<tr>
                 <td>Lecture 8</td>
-                <td>Feb 10</td>
-                <td>Sequence Labeling or Tagging Problems</td>
-				<td>[ <a href="docs/CS565Lec20160210.pdf" target="_blank">Lecture Slides ]</a></td>				
-            </tr>-->
+                <td>Aug 24</td>
+                <td>Probability bounds (contd.): Cauchy–Schwarz inequality, Jensen's inequality; Multiple random variables: Joint distribution, Marginal distribution, Conditional distribution</td>
+				<td>[HOS]<!--[ <a href="docs/CS565Lec20160210.pdf" target="_blank">Lecture Slides ]</a>--><td>				
+            </tr>
 
 			<!--<tr>
                 <td>Lecture 9</td>
@@ -399,12 +398,6 @@
 			<p>
 				<Ol>
 					<li class="text-justify"><b>Assignment 1 (Due date: 17/08/2016):</b> <a href="docs/assignment1_2016cs519.pdf"target="_blank"><u>Link</u></a></li>
-					
-				</Ol>
-			</p>
-
-			<p>
-				<Ol>
 					<li class="text-justify"><b>Assignment 1 Solutions:</b> <a href="docs/assignment1_2016cs519_solution.pdf"target="_blank"><u>Link</u></a></li>
 					
 				</Ol>
